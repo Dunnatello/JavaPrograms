@@ -1,5 +1,5 @@
 # Java Programs
-These are several Java programs that I made for my Problem Solving and Programming Concepts course. Feel free to use them however you like.
+These are several Java programs that I completed for my Problem Solving and Programming Concepts course. Feel free to use them however you like.
 
 # Soccer Team Roster
 The soccer team roster program allows users to add, replace, and modify `Player` class objects within the team. Additionally, it also features insertion sort to filter results by rank.  
